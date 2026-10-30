@@ -12,3 +12,14 @@ public class Aquarium {
         painter.turnLeft(40);
      }
 }
+/* Draws Starfish at specified point (x, y), it may be angled
+@param Starcolor th ecolor of the fish
+@param PainterAPI
+@param xPosition position of top corner of star
+@param yPosition position of top corner of star */
+    public void drawStarFish (Color Starcolor, double xPosition, double yPosition) {
+        //Calls drawStar
+        //calls moveTo
+        //calls drawEyes
+}
+// Testing headers at Lab 118A
